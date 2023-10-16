@@ -3,7 +3,7 @@ Developing a stock trading simulator powered by Spring Boot, featuring real-time
 
 
 
-![](https://hackmd.io/_uploads/H1YBTccbT.png)
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_a73db100e265efacf569d7de835a08d5.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1697455847&Signature=4z2oVsZrdbx59W%2BHTOP%2FCnEd4%2Bg%3D)
 
 Feel free to reach out @patricksin811@gmail.com, 
 if you'd like access to the source code. I'm here to assist you.
