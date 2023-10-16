@@ -3,6 +3,6 @@ Developing a stock trading simulator powered by Spring Boot, featuring real-time
 
 
 
-![]()
+![](https://hackmd.io/_uploads/H1YBTccbT.png)
 Feel free to reach out @patricksin811@gmail.com, 
 if you'd like access to the source code. I'm here to assist you.
