@@ -6,9 +6,9 @@ Developing a stock trading simulator powered by Spring Boot, featuring real-time
 ![](https://i.ibb.co/RHK4jsS/frontendstock.png)
 
 
-![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_328f7fa42ebfcce4adccdb8579d5b53e.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1697457220&Signature=WJVCaah4sM2s0mFrrNBvRcigZ%2F8%3D)
+![](https://i.ibb.co/1GQK9PQ/2023-10-16-7-47-42.png)
 
-![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_5cf3c64c8bc47bd8e2a3178d342a010d.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1697457782&Signature=74t%2FDWxfm%2BBFOOwhdL7WPbxkZ1U%3D)
+![](https://i.ibb.co/2qkKw26/2023-10-16-7-53-55.png)
 
 Feel free to reach out @patricksin811@gmail.com, 
 if you'd like access to the source code. I'm here to assist you.
