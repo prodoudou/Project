@@ -3,7 +3,7 @@ Developing a stock trading simulator powered by Spring Boot, featuring real-time
 
 
 
-![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_a73db100e265efacf569d7de835a08d5.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1697455847&Signature=4z2oVsZrdbx59W%2BHTOP%2FCnEd4%2Bg%3D)
+![](https://i.ibb.co/RHK4jsS/frontendstock.png)
 
 
 ![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_328f7fa42ebfcce4adccdb8579d5b53e.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1697457220&Signature=WJVCaah4sM2s0mFrrNBvRcigZ%2F8%3D)
